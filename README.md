@@ -92,9 +92,5 @@ The UI will be available here: http://localhost:5173
 - Conduct extensive testing on core components, focusing on WebSocket updates and map rendering.
 - Strengthen error handling.
 - Set up a CI/CD pipeline for automated testing and smooth deployment.
-  <<<<<<< HEAD
-  =======
 
 p.s I originally had just the drone_frontend folder pushed to my repository it should now be resolved, apologies
-
-> > > > > > > f1e1818 (Initialise Root Folder)
