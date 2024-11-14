@@ -4,8 +4,6 @@ DroneShield's mission is to provide the best Counter-drone defence in an emergin
 
 This code challenge involves building a Counter UAS simulator and user interface for the tracking of drones.
 
-<<<<<<< HEAD
-=======
 ### Run the sample using the Go backend
 
 From the root of the project:
@@ -53,7 +51,6 @@ npm run dev
 
 ---
 
->>>>>>> f1e1818 (Initialise Root Folder)
 ### Frontend
 
 First, make sure that the backend is running.
@@ -70,10 +67,6 @@ The UI will be available here: http://localhost:5173
 
 ---
 
-<<<<<<< HEAD
-
-=======
->>>>>>> f1e1818 (Initialise Root Folder)
 ### Conclusion
 
 (i) assumptions and decisions that I made whilst approaching these tasks
@@ -99,8 +92,9 @@ The UI will be available here: http://localhost:5173
 - Conduct extensive testing on core components, focusing on WebSocket updates and map rendering.
 - Strengthen error handling.
 - Set up a CI/CD pipeline for automated testing and smooth deployment.
-<<<<<<< HEAD
-=======
+  <<<<<<< HEAD
+  =======
 
 p.s I originally had just the drone_frontend folder pushed to my repository it should now be resolved, apologies
->>>>>>> f1e1818 (Initialise Root Folder)
+
+> > > > > > > f1e1818 (Initialise Root Folder)
